@@ -1,0 +1,2 @@
+# Quantum-Computing-Research-Project
+A comprehensive study on the impact of pseudorandom and quantum-random number generators on soft computing algorithms. Demonstrated that a hybrid generator, combining both types, significantly outperforms individual generators across various methods. Emphasized the critical role of selecting appropriate random number generators in optimizing algorithm performance.
